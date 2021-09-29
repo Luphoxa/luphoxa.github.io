@@ -1,8 +1,8 @@
 toc:
   - title: Group 1
     subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
+      - page: Installation
+        url: OCG-UI/installation.md
       - page: Thing 2
         url: /thing2.html
       - page: Thing 3
