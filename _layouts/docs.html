@@ -6,6 +6,11 @@ layout: default
    <header class="article-content__header dock-header">
      <h1 >{{title}}</h1>
 
+     <div>
+     {% if page.status == 'todo' %}
+       Coming soon...
+     {% else %}
+
      {% if page.description != null %}
        <p>
          {{page.description}}
@@ -18,10 +23,6 @@ layout: default
        </div>
    </header>
 
-   <div>
-     {% if page.status == 'todo' %}
-       Coming soon...
-     {% else %}
        {{ content }}
      {% endif %}
    </div>
