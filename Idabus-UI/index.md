@@ -1,6 +1,8 @@
 ---
 title: Index
 filename: index.md
+permalink: /
+nav_order: 1
 ---
 
 ## Welcome to GitHub Pages
