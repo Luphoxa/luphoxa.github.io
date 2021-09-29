@@ -92,7 +92,7 @@ Go to MIM Portal -> Administration -> All Resources -> Activity Information Conf
 Navigate to C:\Windows\Assembly and find the version number to the Microsoft.ResourceManagement library
 
 ![backup1_1.png](/img/backup1_1-1ca3373e-c135-41f4-ac9e-a3360c84fdb6.png)
-![backup1_2.png](/imgs/backup1_2-399e1720-72db-45a7-8943-65831bf14292.png)
+![backup1_2.png](/img/backup1_2-399e1720-72db-45a7-8943-65831bf14292.png)
 
 ### Import Backup Workflow
 Open the file "UISettingBackup_ChangeSet.xml" from the installation package and replace !mimWalVersion!, !token! and !resourceManagementVersion! with the real data from the above steps.
