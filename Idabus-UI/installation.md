@@ -10,6 +10,8 @@ Version: 4.2 or above
 
 You can find all installation packages and tools in Teams unter OCGDE Technisch -> MIM UI -> Files -> OCG UI v4 -> Releases
 
+{% include toc.html html=content %}
+
 ## Prerequisites
 - MIM Service and Portal (2016 R2 or later)
 - [.Net Core 3.1 Hosting Bundle](https://dotnet.microsoft.com/download/dotnet/3.1)
