@@ -118,8 +118,8 @@ This is a configuration object of type ocgConfiguration, defines how long the ba
 >**In real production environment you may need additional settings in IIS like Host Name; Application Pool with Service Account, which has SPN registered; Negotiate only Authentication, etc.**
 
 
-![iis1_1.png](/.attachments/iis1_1-b89c9e6f-3e03-4526-9166-9db6e12c35a6.png)
-![iis1_2.png](/.attachments/iis1_2-73d6118a-c561-4c2e-a619-77cb0bcd2b08.png)
+![iis1_1.png](/img/iis1_1-b89c9e6f-3e03-4526-9166-9db6e12c35a6.png)
+![iis1_2.png](/img/iis1_2-73d6118a-c561-4c2e-a619-77cb0bcd2b08.png)
 
-![iis1_3.png](/.attachments/iis1_3-e45e5ef9-db9d-44ff-8f76-b2c5a5968708.png)
-![iis1_4.png](/.attachments/iis1_4-98c5e49d-a8a7-4eee-a52d-a5a58a033991.png)
+![iis1_3.png](/img/iis1_3-e45e5ef9-db9d-44ff-8f76-b2c5a5968708.png)
+![iis1_4.png](/img/iis1_4-98c5e49d-a8a7-4eee-a52d-a5a58a033991.png)
