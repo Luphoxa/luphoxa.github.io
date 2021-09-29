@@ -49,7 +49,7 @@ Add the following Sets and MPRs in MIM Portal
 ### Sets
 - OCG UI: All UI Sets
 
-| ![dashboard.png](/.attachments/set1_1-ce13d3a9-4e8c-46fa-b8b9-78648d7a5c44.png) | ![set1_2.png](/.attachments/set1_2-ed2975d7-1f18-4ece-aaed-485d39955a95.png) |
+| ![dashboard.png](../.attachments/set1_1-ce13d3a9-4e8c-46fa-b8b9-78648d7a5c44.png) | ![set1_2.png](../.attachments/set1_2-ed2975d7-1f18-4ece-aaed-485d39955a95.png) |
 |--|--|
 - UI - Standard View
 
