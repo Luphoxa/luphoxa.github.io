@@ -1,5 +1,7 @@
 ---
 title: Installation Guide
+layout: page
+permalink: /installation/
 filename: installation.md
 --- 
 
