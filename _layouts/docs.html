@@ -6,23 +6,21 @@ layout: default
    <header class="article-content__header dock-header">
      <h1 >{{title}}</h1>
 
-     <div>
-     {% if page.status == 'todo' %}
-       Coming soon...
-     {% else %}
-
      {% if page.description != null %}
        <p>
          {{page.description}}
        </p>
      {% endif %}
+  </header>
 
-       <div class="dock-header__toc markdown-body">
+     <div>
+     {% if page.status == 'todo' %}
+       Coming soon...
+     {% else %}
+       <div>
          <h3>Table of contents:</h3>
          {% include toc.html html=content %}
        </div>
-   </header>
-
        {{ content }}
      {% endif %}
    </div>
