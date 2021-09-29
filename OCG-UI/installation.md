@@ -45,7 +45,8 @@ Make sure to run iisreset after extending schema
 Add the following Sets and MPRs in MIM Portal
 <br/>
 >Alternatively you can import the OCG Sets and MPRs file (MIM2016R2SP2_UISetsMPRs_ChangeSet.xml), which already includes the Sets and MPRs.
-###Sets
+
+### Sets
 - OCG UI: All UI Sets
 
 | ![dashboard.png](/.attachments/set1_1-ce13d3a9-4e8c-46fa-b8b9-78648d7a5c44.png) | ![set1_2.png](/.attachments/set1_2-ed2975d7-1f18-4ece-aaed-485d39955a95.png) |
@@ -59,7 +60,7 @@ Input "uibase" in the "OCG Object Type" attribute
 Copy the content of "ui-config-example.json" from the installation package in the the "OCG Configuration XML" attribute
 >If you get a 10000 character limitation error, you can use the "importUISettings.ps1" to import the "ui-config-example.json" file
 
-###MPRs
+### MPRs
 - OCG UI: Users can control UI attributes of their own
 
 | ![mpr1_1.png](/.attachments/mpr1_1-46f6627a-f187-4535-b079-aee9841be685.png) | ![mpr1_2.png](/.attachments/mpr1_2-17d0823f-b01f-43b1-bf97-e76c870cb139.png) |
