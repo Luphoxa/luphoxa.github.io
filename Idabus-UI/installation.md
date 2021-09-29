@@ -1,8 +1,7 @@
 ---
 title: Installation Guide
-permalink: /installation/
 filename: installation.md
-layout: default
+permalink: /installation/
 nav_order: 2
 ---
 
@@ -53,8 +52,9 @@ Add the following Sets and MPRs in MIM Portal
 
 - UI - Standard View
 
-| ![set2_1.png](../.attachments/set2_1-461f9eaa-e937-4f4d-8603-a761e9de4d0f.png) | ![set2_2.png](../.attachments/set2_2-b2ea6469-5736-429d-ad38-a89765fddd93.png) |
-|--|--|
+![set2_1.png](../img/set2_1-461f9eaa-e937-4f4d-8603-a761e9de4d0f.png)
+![set2_2.png](../img/set2_2-b2ea6469-5736-429d-ad38-a89765fddd93.png) |
+
 
 Input "uibase" in the "OCG Object Type" attribute
 Copy the content of "ui-config-example.json" from the installation package in the the "OCG Configuration XML" attribute
@@ -63,8 +63,9 @@ Copy the content of "ui-config-example.json" from the installation package in th
 ### MPRs
 - OCG UI: Users can control UI attributes of their own
 
-| ![mpr1_1.png](/.attachments/mpr1_1-46f6627a-f187-4535-b079-aee9841be685.png) | ![mpr1_2.png](/.attachments/mpr1_2-17d0823f-b01f-43b1-bf97-e76c870cb139.png) |
-|--|--|
+![mpr1_1.png](/img/mpr1_1-46f6627a-f187-4535-b079-aee9841be685.png)
+![mpr1_2.png](/img/mpr1_2-17d0823f-b01f-43b1-bf97-e76c870cb139.png) |
+
 
 - OCG UI: Users can control UI Sets of their own
 
