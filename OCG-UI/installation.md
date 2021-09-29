@@ -49,11 +49,11 @@ Add the following Sets and MPRs in MIM Portal
 ### Sets
 - OCG UI: All UI Sets
 
-| ![dashboard.png](../.attachments/set1_1-ce13d3a9-4e8c-46fa-b8b9-78648d7a5c44.png) | ![set1_2.png](/.attachments/set1_2-ed2975d7-1f18-4ece-aaed-485d39955a95.png) |
+| ![dashboard.png](../img/set1_1-ce13d3a9-4e8c-46fa-b8b9-78648d7a5c44.png) | ![set1_2.png](./img/set1_2-ed2975d7-1f18-4ece-aaed-485d39955a95.png) |
 |--|--|
 - UI - Standard View
 
-| ![set2_1.png](/.attachments/set2_1-461f9eaa-e937-4f4d-8603-a761e9de4d0f.png) | ![set2_2.png](/.attachments/set2_2-b2ea6469-5736-429d-ad38-a89765fddd93.png) |
+| ![set2_1.png](/img/set2_1-461f9eaa-e937-4f4d-8603-a761e9de4d0f.png) | ![set2_2.png](img/set2_2-b2ea6469-5736-429d-ad38-a89765fddd93.png) |
 |--|--|
 
 Input "uibase" in the "OCG Object Type" attribute
