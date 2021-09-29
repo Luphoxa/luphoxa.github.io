@@ -3,6 +3,8 @@ title: Index
 filename: index.md
 permalink: /
 nav_order: 1
+status: todo
+layout: docs
 ---
 
 ## Welcome to GitHub Pages
