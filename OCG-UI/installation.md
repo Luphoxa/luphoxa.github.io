@@ -2,7 +2,9 @@
 title: Installation Guide
 permalink: /installation/
 filename: installation.md
---- 
+layout: default
+nav_order: 2
+---
 
 # Installation
 Version: 4.2 or above
@@ -47,7 +49,7 @@ Add the following Sets and MPRs in MIM Portal
 - OCG UI: All UI Sets
 
 ![dashboard.png](../img/set1_1-ce13d3a9-4e8c-46fa-b8b9-78648d7a5c44.png)
-![set1_2.png](../img/set1_2-ed2975d7-1f18-4ece-aaed-485d39955a95.png) 
+![set1_2.png](../img/set1_2-ed2975d7-1f18-4ece-aaed-485d39955a95.png)
 
 - UI - Standard View
 
@@ -118,6 +120,3 @@ This is a configuration object of type ocgConfiguration, defines how long the ba
 | ![iis1_1.png](/.attachments/iis1_1-b89c9e6f-3e03-4526-9166-9db6e12c35a6.png) | ![iis1_2.png](/.attachments/iis1_2-73d6118a-c561-4c2e-a619-77cb0bcd2b08.png) |
 |--|--|
 | ![iis1_3.png](/.attachments/iis1_3-e45e5ef9-db9d-44ff-8f76-b2c5a5968708.png) | ![iis1_4.png](/.attachments/iis1_4-98c5e49d-a8a7-4eee-a52d-a5a58a033991.png) |
-
-
-

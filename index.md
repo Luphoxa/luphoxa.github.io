@@ -1,7 +1,7 @@
 ---
 title: Index
 filename: index.md
---- 
+---
 
 ## Welcome to GitHub Pages
 
@@ -10,15 +10,6 @@ You can use the [editor on GitHub](https://github.com/Luphoxa/luphoxa.github.io/
 Link to [different pages](https://luphoxa.github.io/installation.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-{% for item in site.data.navigation.toc %}
-    <h3>{{ item.title }}</h3>
-      <ul>
-        {% for entry in item.subfolderitems %}
-          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-        {% endfor %}
-      </ul>
-  {% endfor %}
 
 ### Markdown
 
